@@ -52,7 +52,7 @@ Below is an example of the folder structure.  In v3.0, all sub-generators for pa
         my-service2-spec.js ........ example service unit test
     /img ........................... images (not created by default but included in /dist if added)
     /dist .......................... distributable version of app built using grunt and Gruntfile.js
-    /vendor/bower_components........ 3rd party libraries managed by bower
+    /vendor......................... 3rd party libraries managed by bower
     /node_modules .................. npm managed libraries used by grunt
 
 Getting Started
